@@ -1,0 +1,53 @@
+html, body, h1, h2, p {
+    margin: 0;
+}
+
+
+body {
+    background-color: bisque;
+    height: 1700px;
+    font-family: 'Beau Rivage', cursive;;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.container {
+    width: 950px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.col {
+    margin: 0 20px;
+}
+
+.row-uno, .row-dos, .row-tres {
+    margin-top: 70px;
+    height: 500px;
+}
+
+.segunda-col {
+    background-image: url(cyberpunk.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.tercera-col {
+    background-image: url(arbolito.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.sexta-col {
+    background-image: url(lago.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
